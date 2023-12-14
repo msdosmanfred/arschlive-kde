@@ -49,7 +49,8 @@ less
 lftp
 libfido2
 libusb-compat
-linux
+linux-zen
+linux-zen-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -132,9 +133,9 @@ zsh
 fish
 
 # den Installer
-calamares
-calamares-settings
-yay
+#calamares
+#calamares-settings
+#yay
 
 # wichtige Tools
 mc
@@ -142,32 +143,32 @@ htop
 subversion
 
 # GUI
-xorg
-xorg-apps
-xorg-drivers
-desktop-file-utils
-dbus
-plasma-meta
-kde-system
-konsole
-kf5
+#xorg
+#xorg-apps
+#xorg-drivers
+#desktop-file-utils
+#dbus
+#plasma-meta
+#kde-system
+#konsole
+#kf5
 
 # Eyecandy
-dracula-kde-theme-git
-dracula-icons-git
-plymouth
+#dracula-kde-theme-git
+#dracula-icons-git
+#plymouth
 
 # Internetz
-firefox
-firefox-i18n-de
+#firefox
+#firefox-i18n-de
 
 # Wichtige Systemdienste
 networkmanager
 xdg-user-dirs
 
 # Sound
-pipewire
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-pipewire-zeroconf
+#pipewire
+#pipewire-alsa
+#pipewire-jack
+#pipewire-pulse
+#pipewire-zeroconf
