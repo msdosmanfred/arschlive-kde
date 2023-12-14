@@ -1,0 +1,29 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1013ad7d3df000170247154700000010790005
+clientId2=1013ad7d3df000170247196800000021710005
+clientId3=1013ad7d3df000170247196800000021710007
+clientId4=1013ad7d3df000170247196800000021710008
+count=4
+discardCommand3[$e]=rm,$HOME/.config/session/kmix_1013ad7d3df000170247196800000021710007_1702494691_235878
+program1=/usr/bin/kclockd
+program2=/usr/lib/DiscoverNotifier
+program3=/usr/bin/kmix
+program4=/usr/bin/kalendarac
+restartCommand1=/usr/bin/kclockd,-session,1013ad7d3df000170247154700000010790005_1702494691_235892
+restartCommand2=/usr/lib/DiscoverNotifier,-session,1013ad7d3df000170247196800000021710005_1702494691_236810
+restartCommand3=/usr/bin/kmix,-session,1013ad7d3df000170247196800000021710007_1702494691_235878
+restartCommand4=/usr/bin/kalendarac,-session,1013ad7d3df000170247196800000021710008_1702494691_235880
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=alex
+userId2=alex
+userId3=alex
+userId4=alex

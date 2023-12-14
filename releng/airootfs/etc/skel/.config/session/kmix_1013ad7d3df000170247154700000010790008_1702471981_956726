@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+ClassName=KMixWindow
+ObjectName=KMixWindow
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+rdp0=rdp0
