@@ -159,6 +159,8 @@ xorg-apps
 xorg-drivers
 desktop-file-utils
 dbus
+rofi
+i3
 plasma-meta
 kde-system
 konsole
