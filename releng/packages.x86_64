@@ -133,14 +133,25 @@ zsh
 fish
 
 # den Installer
-calamares
+alci-calamares
 calamares-settings
-yay
+yay-bin
+paru-bin
 
 # wichtige Tools
+vifm
+neovim
+rcm
+update-grub
+timeshift-autosnap
+grub-btrfs
 mc
 htop
+gotop
 subversion
+termite
+alacritty
+alacritty-themes
 
 # GUI
 xorg
@@ -154,9 +165,14 @@ konsole
 kf5
 
 # Eyecandy
-dracula-kde-theme-git
 dracula-icons-git
+dracula-gtk-theme
+kvantum-theme-dracula-git
+plasma5-themes-dracula-git
+powerline-console-fonts
+ttf-ms-fonts
 plymouth
+nerd-fonts
 
 # Internetz
 firefox
