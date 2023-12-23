@@ -49,8 +49,8 @@ less
 lftp
 libfido2
 libusb-compat
-linux-zen
-linux-zen-headers
+linux
+linux-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -159,8 +159,8 @@ xorg-apps
 xorg-drivers
 desktop-file-utils
 dbus
-rofi
-i3
+#rofi
+#i3
 plasma-meta
 kde-system
 konsole
@@ -169,12 +169,13 @@ kf5
 # Eyecandy
 dracula-icons-git
 dracula-gtk-theme
+kvantum
 kvantum-theme-dracula-git
 plasma5-themes-dracula-git
 powerline-console-fonts
 ttf-ms-fonts
 plymouth
-nerd-fonts
+#nerd-fonts
 
 # Internetz
 firefox
