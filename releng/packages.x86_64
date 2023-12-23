@@ -134,7 +134,7 @@ fish
 
 # den Installer
 alci-calamares
-calamares-settings
+alci-calamares-config
 yay-bin
 paru-bin
 
