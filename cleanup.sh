@@ -1,8 +1,8 @@
 #!/bin/bash
 
 clean-up() {
-	sudo rm -rvf ~/iso/work
-	sudo rm -rvf ~/iso/output
+	sudo rm -rvf ../work
+	sudo rm -rvf ../output
 }
 
 if [ $UID -eq 0 ]; then
