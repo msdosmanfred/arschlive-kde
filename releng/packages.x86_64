@@ -133,8 +133,8 @@ zsh
 fish
 
 # den Installer
-alci-calamares
-calamares-settings
+calamares
+calamares-settings-git
 yay-bin
 paru-bin
 
