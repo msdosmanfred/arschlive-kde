@@ -49,6 +49,7 @@ less
 lftp
 libfido2
 libusb-compat
+linux
 linux-zen
 linux-atm
 linux-firmware
@@ -177,6 +178,8 @@ bibata-extra-cursor-theme
 powerline-console-fonts
 ttf-ms-fonts
 plymouth
+plymouth-theme-dracula-git
+dracula-grub-theme-git
 #nerd-fonts
 
 # Internetz
