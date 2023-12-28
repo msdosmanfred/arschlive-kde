@@ -65,7 +65,7 @@ memtest86+
 memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
-mkinitcpio-firmware
+#mkinitcpio-firmware
 mkinitcpio-nfs-utils
 modemmanager
 mtools
@@ -136,23 +136,14 @@ fish
 # den Installer
 calamares
 arschlive-config-calamares-git
-yay-bin
-paru-bin
 
 # wichtige Tools
 vifm
 neovim
-rcm
-update-grub
-timeshift-autosnap
-grub-btrfs
-mc
 htop
 gotop
 subversion
 termite
-alacritty
-alacritty-themes
 bitwarden
 neofetch
 starship
@@ -160,30 +151,25 @@ shell-color-scripts
 
 # GUI
 xorg
-xorg-apps
-xorg-drivers
 desktop-file-utils
 dbus
 #rofi
 #i3
-plasma-meta
-kde-system
+plasma-desktop
+dolphin
 arschlive-config-plasma-git
 konsole
 kf5
+sddm
 
 # Eyecandy
-archlinux-wallpaper
 full-dracula-theme-git
 dracula-icons-git
-kvantum
 bibata-cursor-theme-bin
 bibata-extra-cursor-theme
 powerline-console-fonts
-ttf-ms-fonts
 plymouth
 plymouth-theme-dracula-git
-dracula-grub-theme-git
 #nerd-fonts
 
 # Internetz
