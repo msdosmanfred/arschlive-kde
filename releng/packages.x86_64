@@ -153,15 +153,18 @@ xf86-video-qxl
 xf86-video-vmware
 xf86-video-vesa
 xf86-video-nouveau
+xf86-input-vmmouse
+xf86-input-synaptics
 desktop-file-utils
 dbus
 #rofi
 #i3
 plasma-desktop
+kdeplasma-addons
 dolphin
 arschlive-config-plasma-git
 konsole
-kf5
+partitionmanager
 sddm
 
 # Eyecandy
