@@ -158,8 +158,7 @@ desktop-file-utils
 dbus
 #rofi
 #i3
-plasma-desktop
-kdeplasma-addons
+plasma-meta
 dolphin
 arschlive-config-plasma-git
 konsole
