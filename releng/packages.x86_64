@@ -164,6 +164,11 @@ dbus
 plasma-meta
 dolphin
 arschlive-config-plasma-git
+arschlive-config-xfce-git
+arschlive-config-fish-git
+arschlive-config-starship-git
+arschlive-config-i3-git
+arschlive-config-polybar-git
 konsole
 partitionmanager
 sddm
@@ -176,7 +181,10 @@ bibata-extra-cursor-theme
 powerline-console-fonts
 plymouth
 plymouth-theme-dracula-git
-#nerd-fonts
+ttf-mononoki-nerd
+shell-color-scripts
+neofetch
+starship
 
 # Internetz
 firefox
