@@ -141,7 +141,7 @@ vifm
 neovim
 htop
 gotop
-neofetch
+fastfetch
 starship
 
 # GUI
@@ -183,7 +183,7 @@ plymouth
 plymouth-theme-dracula-git
 ttf-mononoki-nerd
 shell-color-scripts
-neofetch
+fastfetch
 starship
 
 # Internetz
