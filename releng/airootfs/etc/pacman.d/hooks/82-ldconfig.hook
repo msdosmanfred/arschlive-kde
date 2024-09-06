@@ -6,7 +6,8 @@ Operation = Remove
 Type = Package
 Target = *
 [Action]
+Description = Updating ld.so.cache
 Depends = glibc
 When = PostTransaction
-Exec = /usr/bin/ldconfig --verbose
+Exec = /usr/bin/ldconfig
 
