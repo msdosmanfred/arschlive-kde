@@ -1,0 +1,12 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Path
+Target = /
+
+[Action]
+When = PostTransaction
+Exec = /usr/bin/ldconfig --verbose
+
