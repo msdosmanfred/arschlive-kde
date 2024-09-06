@@ -3,10 +3,10 @@
 Operation = Install
 Operation = Upgrade
 Operation = Remove
-Type = Path
-Target = /
-
+Type = Package
+Target = *
 [Action]
+Depends = glibc
 When = PostTransaction
 Exec = /usr/bin/ldconfig --verbose
 
