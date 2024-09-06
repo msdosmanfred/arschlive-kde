@@ -144,6 +144,7 @@ gotop
 fastfetch
 starship
 eza
+paru-bin
 
 # GUI
 xorg
