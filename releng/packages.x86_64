@@ -133,7 +133,7 @@ zsh
 fish
 
 # den Installer
-calamares
+arschlive-calamares
 arschlive-config-calamares-git
 
 # wichtige Tools
@@ -181,7 +181,6 @@ powerline-console-fonts
 plymouth
 plymouth-theme-dracula-git
 ttf-mononoki-nerd
-shell-color-scripts
 fastfetch
 starship
 
