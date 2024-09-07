@@ -176,12 +176,12 @@ partitionmanager
 sddm
 
 # Eyecandy
-full-dracula-theme-git
+#full-dracula-theme-git
 dracula-icons-git
 bibata-cursor-theme-bin
 powerline-console-fonts
 plymouth
-plymouth-theme-dracula-git
+#plymouth-theme-dracula-git
 ttf-mononoki-nerd
 fastfetch
 starship
